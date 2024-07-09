@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgements
 
-- Thanks to the open-source community for various resources and tutorials.
+- Thanks to the Trinity College Summer Research Program, under which I have been working on FPGA projects under Dr. Davind Branning, PhD.
 - Special mention to SparkFun for PWM wave pattern inspiration.
 
 # Contact
